@@ -4,7 +4,7 @@ Depicts classes taken and content learned
 Big Data, IOT and CyberSecurity (Graduate level)
 - Outlines several topics covering broad range applications and challenges as well as some niche opportunities of Big data, IOT and Cybersecurity. 
 
-Harvard Probability (Graduate level Stat 110- Most famous )
+Harvard Probability (Graduate level Stat 110- Most sought after Math class at Harvard)
 - The most famous statistics and probabilty class at Harvard University which teaches students "How to Think". 
 This class has a focus on how to calculate difficult probabilities and  the math behind difficult to grasp concepts. 
 
